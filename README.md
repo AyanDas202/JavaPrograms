@@ -1,2 +1,2 @@
 # JavaPrograms
-Basics of java
+Core Java
